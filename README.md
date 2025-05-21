@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shubhodeep Sen</h1>
-<h3 align="center">I am passionate about building decentralized applications that leverage the power of blockchain technology to create more transparent, secure, and inclusive systems. With a strong foundation in web development, I am familiar with popular web3 technologies such as Ethereum, IPFS, and Solidity</h3>
-
+Hi 👋, I'm Shubhodeep Sen
+I'm a passionate Software Engineer with a strong foundation in web development and a keen interest in building secure, scalable, and impactful applications. I enjoy solving real-world problems through technology and have experience working with modern development tools and frameworks. I stay up to date with emerging technologies to continually improve my skill set
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhodeep786&label=Profile%20views&color=0e75b6&style=flat" alt="shubhodeep786" /> </p>
 
 - 💬 Ask me about **Reactjs,Nextjs,Nestjs,Solidity & Javascript**
